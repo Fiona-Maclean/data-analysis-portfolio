@@ -1,4 +1,4 @@
-# data-analysis-po# Data Analysis Portfolio – Fiona Maclean
+# Data Analysis Portfolio – Fiona Maclean
 
 This repository contains selected data analysis projects demonstrating skills in Excel and Power BI.
 
