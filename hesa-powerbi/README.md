@@ -1,3 +1,4 @@
+
 # Postgraduate Computing Courses in Scotland (Power BI)
 
 Power BI dashboard analysing postgraduate computing courses offered by Scottish universities between 2014 and 2024.
