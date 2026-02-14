@@ -1,5 +1,5 @@
 
-# Data Analysis Portfolio – Fiona Maclean
+# Data Analysis & Visualisation Portfolio – Fiona Maclean
 
 This repository showcases selected data analysis projects using **Excel and Power BI**.  
 It demonstrates my ability to structure, clean, and visualise data to produce clear insights, and to create interactive dashboards that tell a story for both technical and non-technical audiences.
