@@ -32,7 +32,8 @@ The dataset is **synthetic and anonymised**, but reflects real-world data struct
 Key features:  
 - Pivot tables, formulas, and charts for summarising data  
 - Analysis of referral types, monthly trends, and patient engagement  
-- File: [`hospital-excel/Fiona_Maclean_Hospital_Data_Excel.xlsx`](hospital-excel/Fiona_Maclean_Hospital_Data_Excel.xlsx)
+  File: [`hospital-excel/Fiona_Maclean_HospitalData_Excel.xlsx`](hospital-excel/Fiona_Maclean_HospitalData_Excel.xlsx)
+
 
 ### 3. Hospital Referrals Dashboard (Power BI)
 An interactive Power BI dashboard visualising hospital referrals and patient engagement.  
