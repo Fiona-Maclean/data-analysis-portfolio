@@ -10,5 +10,6 @@ Dataset is synthetic and anonymised.
 
 **A selection of key outputs**
 
-![Referrals by Type](Hospital_Excel_ReferralsByType.png)
+![Referrals by Type](Hospital_Excel_Referrals_By_Type.png)
+
 
